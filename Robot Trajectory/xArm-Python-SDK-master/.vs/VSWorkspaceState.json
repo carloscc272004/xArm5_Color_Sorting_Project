@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\xArm-Python-SDK-master",
+    "\\xArm-Python-SDK-master\\example",
+    "\\xArm-Python-SDK-master\\example\\wrapper",
+    "\\xArm-Python-SDK-master\\example\\wrapper\\xarm5",
+    "\\xArm-Python-SDK-master\\xarm",
+    "\\xArm-Python-SDK-master\\xarm\\core",
+    "\\xArm-Python-SDK-master\\xarm\\core\\comm",
+    "\\xArm-Python-SDK-master\\xarm\\core\\wrapper",
+    "\\xArm-Python-SDK-master\\xarm\\x3"
+  ],
+  "SelectedNode": "\\xArm-Python-SDK-master\\example\\wrapper\\xarm5\\2001-move_joint.py",
+  "PreviewInSolutionExplorer": false
+}
